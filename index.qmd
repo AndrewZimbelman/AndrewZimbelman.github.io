@@ -1,11 +1,15 @@
 ---
-title: "AndrewZimbelman.github.io"
+title: Andrew Zimbelman
+about: 
+  template: jolla 
+links:
 ---
 
-This is a Quarto website.
+---
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+---
 
-```{r}
-1 + 1
+My name is Andrew Zimbelman I am a 3rd year Ecosystem Science & Sustainability major at CSU. I am in the marching band.
+
+```         
 ```
