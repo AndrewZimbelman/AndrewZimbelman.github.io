@@ -3,7 +3,7 @@ title: Andrew Zimbelman
 about: 
   template: jolla 
 links:
-  text: resume 
+  text: 
 ---
 
 My name is Andrew Zimbelman I am a 3rd year Ecosystem Science & Sustainability major at CSU. I am in the marching band.
