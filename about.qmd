@@ -1,6 +1,7 @@
 ---
 title: "About"
 how did I make this tab? /genq
+image: IMG
 ---
 
 ```{}
