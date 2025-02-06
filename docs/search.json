@@ -19,5 +19,12 @@
     "title": "Resume",
     "section": "",
     "text": "I’m gonna put my resume here"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This is my projects tab"
   }
 ]
