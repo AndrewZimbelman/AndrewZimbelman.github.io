@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "I’m gonna put my resume here"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Andrew Zimbelman",
@@ -12,13 +19,6 @@
     "title": "About",
     "section": "",
     "text": "How did I make this tab?"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "I’m gonna put my resume here"
   },
   {
     "objectID": "projects.html",
