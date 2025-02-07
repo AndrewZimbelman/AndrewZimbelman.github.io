@@ -1,10 +1,22 @@
 ---
 title: Andrew Zimbelman
-
-image: IMG_4538.jpeg
+image: C:/Users/azout/Downloads/IMG_4538.jpeg
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: Github Account 
+    - href: https://github.com/AndrewZimbelman
+    - text: Linkedin 
+    - href: https://www.linkedin.com/in/andrew-zimbelman-0b2028349/
+    - text: Handshake
+    - href: https://app.joinhandshake.com/profiles/bkahwg
+    - text: Email 
+    - href: andrewrzimbelman2203@gmail.com
 ---
 
-My name is Andrew Zimbelman I am a 3rd year Ecosystem Science & Sustainability major at CSU. I am in the marching band.
+I'm Andrew, I'm an undergraduate at Colorado State Univeristy getting my bachelor's of science & professional science masters in Ecosystem Science & Sustainability. I enjoy doing field work, as well as playing the trombone with Colorado State's jazz band's and orchestra. As well as playing wit the loveland orchestra!
 
 ```         
 ```
