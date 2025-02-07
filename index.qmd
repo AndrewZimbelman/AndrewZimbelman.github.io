@@ -7,11 +7,11 @@ about:
   image-width: 17em
   links:
     - text: Github Account 
-    - href: https://github.com/AndrewZimbelman
+      href: https://github.com/AndrewZimbelman
     - text: Linkedin 
-    - href: https://www.linkedin.com/in/andrew-zimbelman-0b2028349/
+      href: https://www.linkedin.com/in/andrew-zimbelman-0b2028349/
     - text: Handshake
-    - href: https://app.joinhandshake.com/profiles/bkahwg
+      href: https://app.joinhandshake.com/profiles/bkahwg
     - text: Email--andrewrzimbelman2203@gmail.com
 ---
 
