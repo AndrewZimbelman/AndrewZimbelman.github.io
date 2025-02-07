@@ -1,8 +1,0 @@
----
-title: "About"
----
-
-My name is Andrew Zimbelman. I am a 3rd year Ecosystem Science & Sustainability major who is interested in regenerative agriculture, sustainable urban development, and environmental justice reform. In my career I am driven to finding ways to connect our agricultural system to underprivileged urban communities that are victims to policies that have created food deserts. I am confident my work will provide nutritious, affordable, healthy food to under supported regions of Colorado.
-
-```         
-```
