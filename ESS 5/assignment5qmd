@@ -1,0 +1,23 @@
+---
+title: "assignment5qmd"
+format: html
+---
+
+# 2. what is the class of the penguins dataset?
+    The class is "tlb_df"
+# 3. what is the structure of the penguins dataset?
+      The structure is tlb & data frame 
+# 4. what are the dimensions of the penguins dataset?
+    The dimension of the penguin dataset is [1] 344, 8 
+# 5. what are the column names of the penguins dataset?
+        the columns are species,stage, region,  island, bill_length, bill_depth, flipper_length, body_mass, and sex 
+# 6. what type of data is `flipper_length_mm` and `Island`?
+        flipper length is an integer and island is a character string 
+# 7. what is the mean flipper length of the penguins?
+mean flipper length  is 200.92
+# 8. what is the standard deviation of flipper length in the penguins?
+  standard deviation is around 14 
+# 9. what is the median body mass of the penguins?
+median body mass is 4050 
+# 10. what is the Island of the 100th penguin?
+the island of the 100th penguin is Dream
