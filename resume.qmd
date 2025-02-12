@@ -1,5 +1,8 @@
 ---
 title: "Resume"
+image:  Resume_Zimbelman.pdf
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 8cm
 ---
-
-I'm gonna put my resume here
