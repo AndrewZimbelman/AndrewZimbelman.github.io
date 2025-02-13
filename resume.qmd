@@ -4,5 +4,5 @@ image: Andrew_Zimbelman_Resume.png
 about:
   template: trestles
   image-shape: rectangle
-  image-width: 8cm
+  image-width: 18cm
 ---
