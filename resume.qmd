@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-image:  Andrew_Zimbelman_Resume.png
+file: Resume_Andrew_Zimbelman.jpg
 about:
   template: trestles
   image-shape: rectangle
