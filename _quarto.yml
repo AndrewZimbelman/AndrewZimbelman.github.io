@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "AndrewZimbelman.github.io"
+  title: "Andrew's website"
   navbar:
     left:
       - href: index.qmd
@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: dark
     css: styles.css
     toc: true
 
