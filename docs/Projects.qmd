@@ -1,0 +1,9 @@
+---
+title: "Projects"
+---
+
+I have done various projects throughout my career. My first project invovled a literature review on coral reef acidification. Where I learned that the causes of coral reef acidification were due to increased carbon emissions from polluters, which lead to acidification as well as impacting fish species cognitive abilites and predator vigilance. Overall, carbon acidification altered predator prey ecosystem dynamics as well as affecting ecosystem services.
+
+I have also written a paper on environmental injustice in low income neighborhoods. This paper's was written in a informative setting meant for everyone to understand. My paper found that individuals in low income areas were more likely to live near polluters, trains, and waste disposal sites that lead to asthma in children and negative health affects in all ages.
+
+My most significant work was my work in ArcGIS, where I worked on a wolverine suitability analysis in the Big Thompson Watershed. This project used various wolverine niche factors, such as how far they travel each day, and preferred snow elevations. This project involved various techniques such as: model builder, data collection and modification, reclassified tools, vector to raster tools, as well as project creating through canva. This project taught me a lot about how to conduct a project from a start with nothing to work off of. It taught me how to find sources of inforomation and challeneged me to parse data efficiently as I had to do this whole project in 2 weeks.
