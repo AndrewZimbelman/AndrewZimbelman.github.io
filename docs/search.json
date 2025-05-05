@@ -18,6 +18,34 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "I have done various projects throughout my career. My first project invovled a literature review on coral reef acidification. Where I learned that the causes of coral reef acidification were due to increased carbon emissions from polluters, which lead to acidification as well as impacting fish species cognitive abilites and predator vigilance. Overall, carbon acidification altered predator prey ecosystem dynamics as well as affecting ecosystem services.\nI have also written a paper on environmental injustice in low income neighborhoods. This paper’s was written in a informative setting meant for everyone to understand. My paper found that individuals in low income areas were more likely to live near polluters, trains, and waste disposal sites that lead to asthma in children and negative health affects in all ages. The paper I wrote also explored the ways that sustainable urban development can combat environmental injustice through the use of formal development, which increases urban populations access to green areas such as community gardens, parks, and vegetation. Form based development also seeks to decrease the overall surface area that is taken up by buildings, making them more spatially efficient and energy self sufficient through implementation of solar panels, green roofs, and pollinator gardens.\nI have also done work in ArcGIS, where I worked on a wolverine suitability analysis in the Big Thompson Watershed. This project used various wolverine niche factors, such as how far they travel each day, and preferred snow elevations. This project involved various techniques such as: model builder, data collection and modification, reclassified tools, vector to raster tools, as well as project creating through canva. This project taught me a lot about how to conduct a project from a start with nothing to work off of. It taught me how to find sources of inforomation and challeneged me to parse data efficiently as I had to do this whole project in 2 weeks.\nMy most recent work has come from R Studio, where I did a project on Covid cases in the United States from 2021-2022. This project taugh me a lot about data analysis, involving how to calculate per capita means, rolling means, daily cases, and daily death’s. This Project also taught me how to portray information in various ways, such as plots, tables, and map based plots. I have attached a link to my work below.\nhttps://andrewzimbelman.github.io/ESS-Lab-3/"
+    "text": "I have done various projects throughout my career. My first project invovled a literature review on coral reef acidification. Where I learned that the causes of coral reef acidification were due to increased carbon emissions from polluters, which lead to acidification as well as impacting fish species cognitive abilites and predator vigilance. Overall, carbon acidification altered predator prey ecosystem dynamics as well as affecting ecosystem services.\nI have also written a paper on environmental injustice in low income neighborhoods. This paper’s was written in a informative setting meant for everyone to understand. My paper found that individuals in low income areas were more likely to live near polluters, trains, and waste disposal sites that lead to asthma in children and negative health affects in all ages. The paper I wrote also explored the ways that sustainable urban development can combat environmental injustice through the use of formal development, which increases urban populations access to green areas such as community gardens, parks, and vegetation. Form based development also seeks to decrease the overall surface area that is taken up by buildings, making them more spatially efficient and energy self sufficient through implementation of solar panels, green roofs, and pollinator gardens.\nI have also done work in ArcGIS, where I worked on a wolverine suitability analysis in the Big Thompson Watershed. This project used various wolverine niche factors, such as how far they travel each day, and preferred snow elevations. This project involved various techniques such as: model builder, data collection and modification, reclassified tools, vector to raster tools, as well as project creating through canva. This project taught me a lot about how to conduct a project from a start with nothing to work off of. It taught me how to find sources of inforomation and challeneged me to parse data efficiently as I had to do this whole project in 2 weeks.\nMy most recent work has come from R Studio, where I done a multitude of lab projects that I will describe below:"
+  },
+  {
+    "objectID": "projects.html#lab-3",
+    "href": "projects.html#lab-3",
+    "title": "Projects",
+    "section": "Lab 3",
+    "text": "Lab 3\nThis lab focused on the use of dplyr, teaching how to use it to clean data and isolate necessary variables to perform analysis in any project. We were responsible for learning how to filter, arrange, use if statements, create new columns with new data based on different equations. This lab also taugh us how to use ggplot, flextables, and to map spatial relationships.\nhttps://andrewzimbelman.github.io/ESS-Lab-3/"
+  },
+  {
+    "objectID": "projects.html#lab-4",
+    "href": "projects.html#lab-4",
+    "title": "Projects",
+    "section": "Lab 4",
+    "text": "Lab 4\nLab 4 taught us about basic data analaysis, including multivariate and bivariate analysis that focused on analysing both categorical and quantitative variables. We were introduced to r functions such as recipes, linear models, correlation tests, distribution tests, as well as more advanced plotting for predicted variables https://andrewzimbelman.github.io/ESS-Lab-4-Project/Lab%204.html"
+  },
+  {
+    "objectID": "projects.html#lab-6-8",
+    "href": "projects.html#lab-6-8",
+    "title": "Projects",
+    "section": "Lab 6 & 8",
+    "text": "Lab 6 & 8\nThis lab was a 2 part lab with research project progress updates in between, from this lab we expanded on our analysis skills to begin using model building to effectively predict variables that were dependent on one another. This lab taught us how to go through the full process of building a model from start to finish, with important functions such as tuning, splits, and collecting training data https://andrewzimbelman.github.io/ESSLab6/"
+  },
+  {
+    "objectID": "projects.html#lab-10",
+    "href": "projects.html#lab-10",
+    "title": "Projects",
+    "section": "Lab 10",
+    "text": "Lab 10\nThis was our final lab of the semester, this lab focused on introducing us to vector based geospatial applications through the use of R, we used functions to establish our coordinates, change datums, change coordinate systems, calculate distances, and use maps to portray important information, this lab also taught us how to answer questions about the real world using Geospatial science https://andrewzimbelman.github.io/Lab10/Lab10.html"
   }
 ]
