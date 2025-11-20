@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "R Studio Coding Projects"
 ---
 
 I have done various projects throughout my career. My first project invovled a literature review on coral reef acidification. Where I learned that the causes of coral reef acidification were due to increased carbon emissions from polluters, which lead to acidification as well as impacting fish species cognitive abilites and predator vigilance. Overall, carbon acidification altered predator prey ecosystem dynamics as well as affecting ecosystem services.

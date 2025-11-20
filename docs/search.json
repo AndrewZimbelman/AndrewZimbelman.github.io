@@ -1,51 +1,51 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Andrew Zimbelman",
+    "objectID": "R Studio Coding Projects.html",
+    "href": "R Studio Coding Projects.html",
+    "title": "R Studio Coding Projects",
     "section": "",
-    "text": "I’m Andrew, I’m an undergraduate at Colorado State Univeristy getting my bachelor’s of science & professional science masters in Ecosystem Science & Sustainability. I enjoy doing field work, nutrition, as well as playing the trombone with Colorado State’s jazz band’s and orchestra, and the loveland orchestra!"
+    "text": "I have done various projects throughout my career. My first project invovled a literature review on coral reef acidification. Where I learned that the causes of coral reef acidification were due to increased carbon emissions from polluters, which lead to acidification as well as impacting fish species cognitive abilites and predator vigilance. Overall, carbon acidification altered predator prey ecosystem dynamics as well as affecting ecosystem services.\nI have also written a paper on environmental injustice in low income neighborhoods. This paper’s was written in a informative setting meant for everyone to understand. My paper found that individuals in low income areas were more likely to live near polluters, trains, and waste disposal sites that lead to asthma in children and negative health affects in all ages. The paper I wrote also explored the ways that sustainable urban development can combat environmental injustice through the use of formal development, which increases urban populations access to green areas such as community gardens, parks, and vegetation. Form based development also seeks to decrease the overall surface area that is taken up by buildings, making them more spatially efficient and energy self sufficient through implementation of solar panels, green roofs, and pollinator gardens.\nI have also done work in ArcGIS, where I worked on a wolverine suitability analysis in the Big Thompson Watershed. This project used various wolverine niche factors, such as how far they travel each day, and preferred snow elevations. This project involved various techniques such as: model builder, data collection and modification, reclassified tools, vector to raster tools, as well as project creating through canva. This project taught me a lot about how to conduct a project from a start with nothing to work off of. It taught me how to find sources of inforomation and challeneged me to parse data efficiently as I had to do this whole project in 2 weeks.\nMy most recent work has come from R Studio, where I done a multitude of lab projects that I will describe below:"
+  },
+  {
+    "objectID": "R Studio Coding Projects.html#lab-3",
+    "href": "R Studio Coding Projects.html#lab-3",
+    "title": "R Studio Coding Projects",
+    "section": "Lab 3",
+    "text": "Lab 3\nThis lab focused on the use of dplyr, teaching how to use it to clean data and isolate necessary variables to perform analysis in any project. We were responsible for learning how to filter, arrange, use if statements, create new columns with new data based on different equations. This lab also taugh us how to use ggplot, flextables, and to map spatial relationships.\nhttps://andrewzimbelman.github.io/ESS-Lab-3/"
+  },
+  {
+    "objectID": "R Studio Coding Projects.html#lab-4",
+    "href": "R Studio Coding Projects.html#lab-4",
+    "title": "R Studio Coding Projects",
+    "section": "Lab 4",
+    "text": "Lab 4\nLab 4 taught us about basic data analaysis, including multivariate and bivariate analysis that focused on analysing both categorical and quantitative variables. We were introduced to r functions such as recipes, linear models, correlation tests, distribution tests, as well as more advanced plotting for predicted variables https://andrewzimbelman.github.io/ESS-Lab-4-Project/Lab%204.html"
+  },
+  {
+    "objectID": "R Studio Coding Projects.html#lab-6-8",
+    "href": "R Studio Coding Projects.html#lab-6-8",
+    "title": "R Studio Coding Projects",
+    "section": "Lab 6 & 8",
+    "text": "Lab 6 & 8\nThis lab was a 2 part lab with research project progress updates in between, from this lab we expanded on our analysis skills to begin using model building to effectively predict variables that were dependent on one another. This lab taught us how to go through the full process of building a model from start to finish, with important functions such as tuning, splits, and collecting training data https://andrewzimbelman.github.io/ESSLab6/"
+  },
+  {
+    "objectID": "R Studio Coding Projects.html#lab-10",
+    "href": "R Studio Coding Projects.html#lab-10",
+    "title": "R Studio Coding Projects",
+    "section": "Lab 10",
+    "text": "Lab 10\nThis was our final lab of the semester, this lab focused on introducing us to vector based geospatial applications through the use of R, we used functions to establish our coordinates, change datums, change coordinate systems, calculate distances, and use maps to portray important information, this lab also taught us how to answer questions about the real world using Geospatial science https://andrewzimbelman.github.io/Lab10/Lab10.html"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "My name is Andrew Zimbelman. I am a 3rd year Ecosystem Science & Sustainability major who is interested in regenerative agriculture, sustainable urban development, and environmental justice. In my career I am driven to finding ways to connect our agricultural system to underprivileged urban communities that are victims to policies that have created food deserts. I am confident my work will provide nutritious, affordable, healthy food to under supported regions of Colorado!\n\nI have held various positions over the course of my career, I have worked in a variety of places from fast food to out on farms. My most significant work experience has come from my time in high school to now. ,where I first started working as a carryout at my local nursery Echter’s. Being a carryout demanded that I have knowledge over various types of plant’s as well as the knowledge to properly identify and recommend various types of mulch, compost, and soil types.\nMy outdoor’s experience does not end here. I have also volunteered for the Wildland Restoration volutneer group. My Volunteer work with this group has focused on 2 significant projects. The first project focuses on planting cover crops for a local farm in Longmont to ensure a more sustainable farming ecosystem was able to persist in various Colorado climates, we did so by planting crops that were designed to protect against wind shearing by digging holes that were around 1-2 feet into the ground, we then gently broke up the plant soil, ensuring there was a higher surface area for root movement to increase land coverage and decrease root competiton, we then placed a layer of mycelia on top of the plants, and then a layer of dirt on top to protect the mycelia from the potential damage from the sun. On top of this, we also worked on creating a beautiful pollinator garden to support a more natural & sustainable farm ecosystem. The second volunteer project focused on ecosystem restoration in an outdoors area in Loveland. In this project, we removed pests, weeds, and dead plants to plant fresh soil with early succesional plant species that would help to restore the ecosytem. We did this the use of various tools such as shovels and pickaxes to remove rock and make room for new plants and soil, which we planted deep in the soil to ensure that their roots could grow into the neighboring soil, allowing them to properly establish and grow.\nMy most recent experience has been at Colorado State Universities largest dining hall known as, “Ram’s Horn”. At Ram’s Horn I am one of the student supervisors, and my job is to train and monitor the tasks of up to 20 student hourlies each shift. I am responsible for ensuring proper sanitization, and food safety standards are met according to HACCP (Hazard Analysis for Critical Control Points). My job also involves managing data for all team members in shift, logging documentation, call-outs, and incidents that occur each day. Finally. I am frequently responsible for opening and closing the building on different shifts. These shifts range from 6 am in the morning to 12 am at night. I am expected to guide my team of up to 20 members to detail oriented opening and closing procedures that ensure the dining hall is prepared for success and maximizing customer service each and every day."
+    "text": "My name is Andrew Zimbelman. I am a 4th year Ecosystem Science & Sustainability major who is interested in regenerative agriculture, sustainable urban development, conservation, and environmental justice. In my career I am driven to finding ways to connect our agricultural system to underprivileged urban communities that are victims to policies that have created food deserts. I am confident my work will provide nutritious, affordable, healthy food to under supported regions of Colorado! I also aim to ensure that our natural areas are preserved for future generations.\n\nI have held various positions over the course of my career, I have worked in a variety of places from fast food to out on farms. My most significant work experience has come from my time in high school to now. ,where I first started working as a carryout at my local nursery Echter’s. Being a carryout demanded that I have knowledge over various types of plant’s as well as the knowledge to properly identify and recommend various types of mulch, compost, and soil types.\nMy previous internship experiences have consisted of working at a wetland restoration company called Westervelt, and 2 farms; Growing Gardens in Boulder, and Expanding Horizons in Fort Collins\nAt Westervelt Ecological Services in Golden, I served as a ecological stewardship intern. In this position, I assisted with field work data collection and site maintenance in various cities in states. This data was used to help make reports and advance through phases of restoration projects. In this position, I used various softwares, such as ArcGIS, Fieldmaps, Excel, Microsoft Teams, and more. I also collected field data through delineations, topographic surveys, and vegetation assessments\nMy farming experience has consisted of asssiting with vegetable harvesting and planting, as well as bed flipping, setting up irrigation, and weed control & maintenance. I have also done soil testing and farm soil assessments in order to make personalized plans for sustainable agriculture practices.\nMy outdoor’s experience does not end here. I have also volunteered for the Wildland Restoration volutneer group. My Volunteer work with this group has focused on 2 significant projects. The first project focuses on planting cover crops for a local farm in Longmont to ensure a more sustainable farming ecosystem was able to persist in various Colorado climates, we did so by planting crops that were designed to protect against wind shearing by digging holes that were around 1-2 feet into the ground, we then gently broke up the plant soil, ensuring there was a higher surface area for root movement to increase land coverage and decrease root competiton, we then placed a layer of mycelia on top of the plants, and then a layer of dirt on top to protect the mycelia from the potential damage from the sun. On top of this, we also worked on creating a beautiful pollinator garden to support a more natural & sustainable farm ecosystem. The second volunteer project focused on ecosystem restoration in an outdoors area in Loveland. In this project, we removed pests, weeds, and dead plants to plant fresh soil with early succesional plant species that would help to restore the ecosytem. We did this the use of various tools such as shovels and pickaxes to remove rock and make room for new plants and soil, which we planted deep in the soil to ensure that their roots could grow into the neighboring soil, allowing them to properly establish and grow.\nMy most recent experience has been at Colorado State Universities largest dining hall known as, “Ram’s Horn”. At Ram’s Horn I am one of the Student Managers. My job is to ensure that all employees documentation and scheduling is completed as well as training all employees and supervisors. I also am responsible for ensuring that the dining hall follows state mandated food safety regulations as well as labor laws."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Andrew Zimbelman",
     "section": "",
-    "text": "I have done various projects throughout my career. My first project invovled a literature review on coral reef acidification. Where I learned that the causes of coral reef acidification were due to increased carbon emissions from polluters, which lead to acidification as well as impacting fish species cognitive abilites and predator vigilance. Overall, carbon acidification altered predator prey ecosystem dynamics as well as affecting ecosystem services.\nI have also written a paper on environmental injustice in low income neighborhoods. This paper’s was written in a informative setting meant for everyone to understand. My paper found that individuals in low income areas were more likely to live near polluters, trains, and waste disposal sites that lead to asthma in children and negative health affects in all ages. The paper I wrote also explored the ways that sustainable urban development can combat environmental injustice through the use of formal development, which increases urban populations access to green areas such as community gardens, parks, and vegetation. Form based development also seeks to decrease the overall surface area that is taken up by buildings, making them more spatially efficient and energy self sufficient through implementation of solar panels, green roofs, and pollinator gardens.\nI have also done work in ArcGIS, where I worked on a wolverine suitability analysis in the Big Thompson Watershed. This project used various wolverine niche factors, such as how far they travel each day, and preferred snow elevations. This project involved various techniques such as: model builder, data collection and modification, reclassified tools, vector to raster tools, as well as project creating through canva. This project taught me a lot about how to conduct a project from a start with nothing to work off of. It taught me how to find sources of inforomation and challeneged me to parse data efficiently as I had to do this whole project in 2 weeks.\nMy most recent work has come from R Studio, where I done a multitude of lab projects that I will describe below:"
-  },
-  {
-    "objectID": "projects.html#lab-3",
-    "href": "projects.html#lab-3",
-    "title": "Projects",
-    "section": "Lab 3",
-    "text": "Lab 3\nThis lab focused on the use of dplyr, teaching how to use it to clean data and isolate necessary variables to perform analysis in any project. We were responsible for learning how to filter, arrange, use if statements, create new columns with new data based on different equations. This lab also taugh us how to use ggplot, flextables, and to map spatial relationships.\nhttps://andrewzimbelman.github.io/ESS-Lab-3/"
-  },
-  {
-    "objectID": "projects.html#lab-4",
-    "href": "projects.html#lab-4",
-    "title": "Projects",
-    "section": "Lab 4",
-    "text": "Lab 4\nLab 4 taught us about basic data analaysis, including multivariate and bivariate analysis that focused on analysing both categorical and quantitative variables. We were introduced to r functions such as recipes, linear models, correlation tests, distribution tests, as well as more advanced plotting for predicted variables https://andrewzimbelman.github.io/ESS-Lab-4-Project/Lab%204.html"
-  },
-  {
-    "objectID": "projects.html#lab-6-8",
-    "href": "projects.html#lab-6-8",
-    "title": "Projects",
-    "section": "Lab 6 & 8",
-    "text": "Lab 6 & 8\nThis lab was a 2 part lab with research project progress updates in between, from this lab we expanded on our analysis skills to begin using model building to effectively predict variables that were dependent on one another. This lab taught us how to go through the full process of building a model from start to finish, with important functions such as tuning, splits, and collecting training data https://andrewzimbelman.github.io/ESSLab6/"
-  },
-  {
-    "objectID": "projects.html#lab-10",
-    "href": "projects.html#lab-10",
-    "title": "Projects",
-    "section": "Lab 10",
-    "text": "Lab 10\nThis was our final lab of the semester, this lab focused on introducing us to vector based geospatial applications through the use of R, we used functions to establish our coordinates, change datums, change coordinate systems, calculate distances, and use maps to portray important information, this lab also taught us how to answer questions about the real world using Geospatial science https://andrewzimbelman.github.io/Lab10/Lab10.html"
+    "text": "I’m Andrew, I’m an undergraduate at Colorado State Univeristy getting my bachelor’s of science & professional science masters in Ecosystem Science & Sustainability. I enjoy doing field work, nutrition, as well as playing the trombone with Colorado State’s jazz band’s and orchestra, and the loveland orchestra!"
   }
 ]
